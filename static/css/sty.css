@@ -1,0 +1,27 @@
+#fname{
+    color: black;
+    text-align: center;
+    font-family: "Times New Roman";
+    font-size: 15px;
+}
+#lname{
+    color: black;
+    text-align: center;
+    font-family: "Times New Roman";
+    font-size: 15px;
+}
+#email{
+    color: aqua;
+    text-align: center;
+    font-family: "Times New Roman";
+    font-size: 15px;
+}
+#pass{
+    color: limegreen;
+    text-align: center;
+    font-family: "Times New Roman";
+    font-size: 15px;
+}
+#fname,#lname,#email,#pass{
+    text-align: center;
+}
